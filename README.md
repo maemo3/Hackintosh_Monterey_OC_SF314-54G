@@ -17,7 +17,7 @@
 
 - Use GenSMBIOS to Generate SMBIOS and insert your SMBIOS, this EFI not include SMBIOS, so Generate SMBIOS yourself.
 
-![alt text](https://prnt.sc/h2YCMy8EGVbC)
+<img src="https://prnt.sc/h2YCMy8EGVbC"/>
 
 ## Usefull Tools
 
