@@ -1,5 +1,3 @@
-## Hackintosh_Monterey_OC_SF314-54G
-
 ## Specs
 
 - Processor   : Intel Core i5-8250U
@@ -24,6 +22,7 @@
 - GenSMBIOS     : https://github.com/corpnewt/GenSMBIOS
 - ProperTree    : https://github.com/corpnewt/ProperTree
 - Opencore      : https://github.com/acidanthera/OpenCorePkg
+- Olaria Vanila : https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/
 
 ## Working
 
