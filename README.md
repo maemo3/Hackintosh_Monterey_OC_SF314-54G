@@ -17,7 +17,7 @@
 
 - Use GenSMBIOS to Generate SMBIOS and insert your SMBIOS, this EFI not include SMBIOS, so Generate SMBIOS yourself.
 
-<img src="https://prnt.sc/h2YCMy8EGVbC"/>
+![img](https://github.com/maemo3/Hackintosh_Monterey_OC_SF314-54G/blob/main/img.png)
 
 ## Usefull Tools
 
